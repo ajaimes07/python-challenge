@@ -1,5 +1,5 @@
 # python-challenge
-Financial Analysis
+Pythom script for analyzing financial recordsof a company
 
  Financial Analysis
   ----------------------------
